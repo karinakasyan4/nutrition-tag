@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/karinakasyan4/nutrition-tag.git/static/css/main.72ad9459.css",
+    "main.js": "/karinakasyan4/nutrition-tag.git/static/js/main.194d4cdb.js",
+    "static/js/787.f3bb09c1.chunk.js": "/karinakasyan4/nutrition-tag.git/static/js/787.f3bb09c1.chunk.js",
+    "static/media/Tagset3.png": "/karinakasyan4/nutrition-tag.git/static/media/Tagset3.3a2ee651a24ddae01c9c.png",
+    "index.html": "/karinakasyan4/nutrition-tag.git/index.html",
+    "main.72ad9459.css.map": "/karinakasyan4/nutrition-tag.git/static/css/main.72ad9459.css.map",
+    "main.194d4cdb.js.map": "/karinakasyan4/nutrition-tag.git/static/js/main.194d4cdb.js.map",
+    "787.f3bb09c1.chunk.js.map": "/karinakasyan4/nutrition-tag.git/static/js/787.f3bb09c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72ad9459.css",
+    "static/js/main.194d4cdb.js"
+  ]
+}
